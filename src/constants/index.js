@@ -267,6 +267,15 @@ export const workExperiences = [
     icon: '/assets/chroste.png',
     animation: 'salute',
   },
+  {
+    id: 2,
+    name: 'E-shuri',
+    pos: 'Frontend Developer',
+    duration: '2024',
+    title: "During my 5-week internship at e-Shuri, hosted at SOS Technical High School, I gained hands-on experience in frontend development. I worked on designing and implementing user interfaces that focused on responsiveness, usability, and aesthetics. This opportunity allowed me to enhance my skills in HTML, CSS, and JavaScript while also learning to collaborate in a structured development environment. The experience deepened my understanding of modern web design principles and reinforced my passion for creating intuitive and engaging user experiences.",
+    icon: '/assets/eshuri.png',
+    animation: 'victory',
+  },
 
   
 ];
