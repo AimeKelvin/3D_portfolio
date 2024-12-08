@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+import Image from "next/image";
 
 const Skills = () => {
   const marquee = [
@@ -36,6 +37,7 @@ const Skills = () => {
               alt={`Icon ${index}`}
               className="h-20 w-36 object-contain"
             />
+
           ))}
           {/* Clone first set of items to create seamless looping */}
           {marquee.map((image, index) => (
